@@ -1,1 +1,164 @@
-kvkkkf
+{
+   "AdsManager":{
+      "adNetwork" :"admob",
+      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "banner_admob":"ca-app-pub-3940256099942544/630097811",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+
+      "interstitial_fan":"IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
+      "banner_fan":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
+      "native_fan":"IMG_16_9_APP_INSTALL#465986095404427_474850511184652"
+   },
+   "Songs" :[
+      {
+         "song_name":"Track1",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/6/d/1/6d1832354158265f6105b1c397fac377.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+      {
+         "song_name":"Track2",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/a/5/1/a51c031b2bcd75dc808133203b40d279.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+      {
+         "song_name":"Track3",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/c/9/1/c91978303c8c949561d7f2df927f25fe.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track4",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/5/b/0/5b0c5b072d4e67250fe2adfd9d4192af.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track5",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/3/6/b/36b22b9ac3822906e6c4e7b5dd895783.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track6",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/0/0d6e7ba38a3aa77b241b87fd778031dd.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track7",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/4/40c18a35733e86c7ef5ab3c4b02b3f8f.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track8",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/4/4dd0d0b2d9c40e7135a817ff74049f0d.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track9",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/5/5512dedef3f342fbac7711d14a06d85a.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track10",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/3/3a79139f087670e8ee5808f87e73e2ae.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track11",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/1/12ea2337f725ca5fe6e06a78b1484c5c.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track12",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/1/12ea2337f725ca5fe6e06a78b1484c5c.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track13",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/d/dfed2c6b5d1f7c92d3a178a97ff189e8.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track14",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/3/3a79139f087670e8ee5808f87e73e2ae.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track15",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/7/7a99ea0d962fb90d48b52f378db8d228.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track16",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/1/12ea2337f725ca5fe6e06a78b1484c5c.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track17",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/d/dfed2c6b5d1f7c92d3a178a97ff189e8.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track18",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/c/c3bfa74ae5c9dda1a5afe805b1164d94.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track19",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/e/ed8f61a939fc7bfd46de7589e8a91dad.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track20",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/4/a/8/4a8437576f19d57751d68979b61d82f0.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track21",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/0/9/1/091941d0b99213b2edde9c099b1529bf.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track22",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/5/c/9/5c984fc96b575f2029d55a4e19e5eefa.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track23",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/7/1/0/71032e840ea8de0ea0d052f03bd7e22a.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track24",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/2/0/6/20650d4101d2d27ab3d08007a7d058f5.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track25",
+         "artist":"Lhoucine Amrrakchi",
+         "song_link":"https://nadorzik.com/mp3/0/3/2/03246205dc2537f78d288f1d8793973b.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      }
+   ]
+}
